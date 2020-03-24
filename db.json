@@ -1,0 +1,129 @@
+accounts: [
+        {
+            "id":"57b4674cf5458100019d4e88",
+            "name":"Dell",
+            "source":"https://us.api.concursolutions.com",
+            "numReports":829463,
+            "lastFetch":63072000000,
+            "lastUpload":94694400000,
+            "lastFetchData":{
+                "id":"59d3529efa94350001b19541",
+                "name":"CH 2/9/17-2/10/17",
+                "user":"adam.kaplan@vatbox.com",
+                "created":1506988800000,
+                "start":1504310400000,
+                "end":1506902400000,
+                "filter":"paid",
+                "optionalFilters":{
+                    "country":{
+                        "code":"US",
+                        "name":"United States",
+                        "currencyCode":"USD"
+                    },
+                    "icon":{
+                        "png":"https://s3-eu-west-1.amazonaws.com/vatbox-public/icon/us.png"
+                    },
+                    "groups":[
+                        "Non EU - Others"
+                    ],
+                    "topLevelDomain":".com",
+                    "supported":"supported",
+                    "rates":[
+    
+                    ],
+                    "vatString":[
+    
+                    ]
+                },
+                "status":"completed",
+                "errors":0,
+                "reportsFetched":-1,
+                "duplicates":0
+            }
+        },
+        {
+            "id":"57b4674cf5458100019d4e88",
+            "name":"Monsanto",
+            "source":"https://us.api.concursolutions.com",
+            "numReports":893261,
+            "lastFetch":458265600000,
+            "lastUpload":489801600000,
+            "lastFetchData":{
+                "id":"59d3529efa94350001b19541",
+                "name":"CH 2/9/17-2/10/17",
+                "user":"adam.kaplan@vatbox.com",
+                "created":1506988800000,
+                "start":1504310400000,
+                "end":1506902400000,
+                "filter":"paid",
+                "optionalFilters":{
+                    "country":{
+                        "code":"US",
+                        "name":"United States",
+                        "currencyCode":"USD"
+                    },
+                    "icon":{
+                        "png":"https://s3-eu-west-1.amazonaws.com/vatbox-public/icon/us.png"
+                    },
+                    "groups":[
+                        "Non EU - Others"
+                    ],
+                    "topLevelDomain":".com",
+                    "supported":"supported",
+                    "rates":[
+    
+                    ],
+                    "vatString":[
+    
+                    ]
+                },
+                "status":"completed",
+                "errors":0,
+                "reportsFetched":-1,
+                "duplicates":0
+            }
+        },
+        
+        {
+            "id":"57b4674cf5458100019d4e88",
+            "name":"Amazon",
+            "source":"https://us.api.concursolutions.com",
+            "numReports":893261,
+            "lastFetch":458265600000,
+            "lastUpload":489801600000,
+            "lastFetchData":{
+                "id":"59d3529efa94350001b19541",
+                "name":"CH 2/9/17-2/10/17",
+                "user":"adam.kaplan@vatbox.com",
+                "created":1506988800000,
+                "start":1504310400000,
+                "end":1506902400000,
+                "filter":"paid",
+                "optionalFilters":{
+                    "country":{
+                        "code":"US",
+                        "name":"United States",
+                        "currencyCode":"USD"
+                    },
+                    "icon":{
+                        "png":"https://s3-eu-west-1.amazonaws.com/vatbox-public/icon/us.png"
+                    },
+                    "groups":[
+                        "Non EU - Others"
+                    ],
+                    "topLevelDomain":".com",
+                    "supported":"supported",
+                    "rates":[
+    
+                    ],
+                    "vatString":[
+    
+                    ]
+                },
+                "status":"completed",
+                "errors":0,
+                "reportsFetched":-1,
+                "duplicates":0
+            }
+        }
+    ]
